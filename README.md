@@ -1,4 +1,4 @@
-### This is my Portfolio
+### This is my Portfolio and
 
 ### My name is AHMAR ALI KHAN, I am Self-Taught Web Developer specialized in MERN stack.
 
