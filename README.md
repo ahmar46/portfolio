@@ -2,6 +2,6 @@
 
 ### My name is AHMAR ALI KHAN, I am a Self-Taught Web Developer from New Delhi, India.
 
-### My specialty
+### My specialty is
 
 ### Find me on Instagram: @electrifying_codes.
