@@ -1,4 +1,4 @@
-### This is my Portfolio and it is live everywhere on th.
+### This is my Portfolio and it is live everywhere on the .
 
 ### My name is AHMAR ALI KHAN, I am a Self-Taught Web Developer from New Delhi, India.
 
