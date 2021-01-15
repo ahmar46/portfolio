@@ -5,3 +5,5 @@
 ### My specialty is front-end development.
 
 ### Find me on Instagram: @electrifying_codes.
+
+[instagram]: https://instagram.com/heal_electrifying
