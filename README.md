@@ -6,4 +6,4 @@
 
 ### Find me on Instagram: [@electrifying_codes][instagram].
 
-[instagram]: https://instagram.com/heal_electrifying
+[instagram]: https://instagram.com/electrifying_codes
